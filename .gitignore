@@ -1,0 +1,11 @@
+.pbi/
+**/.pbi/
+*.abf
+*.tmp
+*.log
+.env
+.env.*
+!.env.example
+local/
+**/localSettings.json
+**/cache.abf
